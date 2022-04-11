@@ -1,7 +1,10 @@
 # PasteZort
 Pastejacking - PasteZort
 
-# Uso:
+*you need metasploit*
+
+
+# Use:
 
 ./PasteZort.py
 
