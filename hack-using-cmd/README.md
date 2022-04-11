@@ -1,7 +1,6 @@
-# PasteZort
-Pastejacking - PasteZort
+# Pastejacking
 
-*you need metasploit*
+* you need metasploit *
 
 
 # Use:
