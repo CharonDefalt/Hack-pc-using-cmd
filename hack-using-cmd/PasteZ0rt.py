@@ -1,10 +1,7 @@
 #!/usr/bin/python
 #-*- coding: utf-8 -*-
 ##############################################################################
-# Creador de PasteZort: ZettaHack - Seguridad Informatica
-# Referencia: https://github.com/ZettaHack/PasteZort.git
-# Contacto: https://www.facebook.com/ZettaHack-568599933346788/
-#           zettahackz@gmail.com
+# Reference: https://github.com/CharonDefalt/Hack-pc-using-cmd
 ##############################################################################
 
 
